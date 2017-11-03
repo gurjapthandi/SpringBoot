@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: url(../images/loginbg.jpg) no-repeat center center fixed;
+    background: url(../images/bcit_background.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -64,7 +64,9 @@ body {
 }
 
 #centerHome {
-    background: rgba(0,0,0,0.6);
+    /*background: rgba(0,0,0,0.6); */
+    background: rgba(0,0,0,2);
+
     margin: 0 auto;
     padding: 30px 0 16px;
     max-width: 300px;
